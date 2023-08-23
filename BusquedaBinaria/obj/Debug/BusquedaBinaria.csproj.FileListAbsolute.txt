@@ -1,0 +1,12 @@
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+D:\PUCE\Tercero\Estructuras II\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+D:\PUCE\Tercero\Estructuras II\Practica 2\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
